@@ -114,35 +114,28 @@ Wir schreiben also jetzt, mathematisch korrekt:
 1,483.706 = 6⋅10° + 0⋅10¹ + 7 ⋅ 10² + 3 ⋅ 10³ + 8 ⋅ 10⁴ +
 +4-10⁵+ 1⋅1O⁶.
 
-Damit ist der innere Bau des Zehnersystems mit
-Stellenwert vollständig und eindeutig bloßgelegt. Ich
-will daher die sogenannte „Diskussion", die Erörterung
-der Angelegenheit, au! die Gefahr hin zu langweilen,
-nicht dem Leser überlassen, sondern sie mit ihm gemeinsam durchführen. Wir sehen zuerst, daß die sogenannte
-Größenfolge eingehalten ist. Die Potenzen von zehn
-folgen einander in der Reihe als 10°, 10 1 , 10®, 10« usf.
-Daran ändern auch die Koeffizienten nichts. Denn selbst
-9-10° (also 9-1 = 9) muß stets kleiner sein als 0-10 1
-(also 0 - 1 0 = 0 ) , weil diese Null an der Zehnerstelle
-nichts anderes bedeutet, als daß in der Zahl mindestens
-10 Zehner vorhanden sind, da ja eine Zahl nie mit der
-Null beginnen darf. Als Beispiel diene die Zahl 109,
-die als Reihe geschrieben 9-10°+0-lO 1 ^-1 -10® lauten
-würde. Daß 10° gleich 1 ist, wurde schon erwähnt. Es
-ist nun weiter klar, daß die Reihe theoretisch ins
-Unendliche fortsetzbar ist. Das heißt, es gibt keine noch
-so große Zahl, die nicht in Form einer solchen Reihe
-aufsteigender, mit Koeffizienten versehener Zehnerpotenzen geschrieben werden könnte. Natürlich ist
-umgekehrt jede solche Reihe wieder in eine dekadische
-Zahl rückübertragbar. 5-10°+7- 1 0 x + 0 - 1 0 2 + 8 - 1 0 s +
-+ 9 - 1 0 4 + 3 - 1 0 « ist nichts anderes als die Zahl 398.075,
-nämlich noch einmal zum Überdruß in Worten: 5 Einer,
-7 Zehner, 0 Hunderter, 8 Tausender, 9 Zehnlausender
-und 3 Hunderttausender. Mit Absicht wird erst hier
-erwähnt, daß ein vollkommenes Ziffernsystem noch
-voraussetzt, daß die sogenannten Stufenzahlen (die
-Zehnerpotenzen) rein sprachlich mit eigenen Worten
-bezeichnet werden können (zehn, hundert, tausend
-usw.). Streng durchgeführt ist die Sache in unserem
+Damit ist der innere Bau des Zehnersystems mit Stellenwert vollständig und
+eindeutig bloßgelegt. Ich will daher die sogenannte „Diskussion", die Erörterung
+der Angelegenheit, au! die Gefahr hin zu langweilen, nicht dem Leser überlassen,
+sondern sie mit ihm gemeinsam durchführen. Wir sehen zuerst, daß die sogenannte
+Größenfolge eingehalten ist. Die Potenzen von zehn folgen einander in der Reihe
+als 10°, 10¹ , 10², 10³ usf. Daran ändern auch die Koeffizienten nichts. Denn
+selbst 9⋅10° (also 9⋅1 = 9) muß stets kleiner sein als 0⋅10¹ (also 0 ⋅ 10¹ = 0 )
+,
+weil diese Null an der Zehnerstelle nichts anderes bedeutet, als daß in der Zahl
+mindestens 10 Zehner vorhanden sind, da ja eine Zahl nie mit der Null beginnen
+darf. Als Beispiel diene die Zahl 109, die als Reihe geschrieben 9⋅10° + 0°10¹ + 1⋅10²
+lauten würde. Daß 10° gleich 1 ist, wurde schon erwähnt. Es ist nun
+weiter klar, daß die Reihe theoretisch ins Unendliche fortsetzbar ist. Das
+heißt, es gibt keine noch so große Zahl, die nicht in Form einer solchen Reihe
+aufsteigender, mit Koeffizienten versehener Zehnerpotenzen geschrieben werden
+könnte. Natürlich ist umgekehrt jede solche Reihe wieder in eine dekadische Zahl
+rückübertragbar. 5⋅10°+ 7⋅10¹ + 0⋅10¹ + 8⋅10³ + 9⋅10⁴ + 3⋅10⁵
+ist nichts anderes als die Zahl 398.075, nämlich noch einmal zum Überdruß in
+Worten: 5 Einer, 7 Zehner, 0 Hunderter, 8 Tausender, 9 Zehntausender und 3
+Hunderttausender. Mit Absicht wird erst hier erwähnt, daß ein vollkommenes
+Ziffernsystem noch voraussetzt, daß die sogenannten Stufenzahlen (die
+Zehnerpotenzen) rein sprachlich mit eigenen Worten bezeichnet werden können
+(zehn, hundert, tausend usw.). Streng durchgeführt ist die Sache in unserem
 
 <!-- P28 -->
