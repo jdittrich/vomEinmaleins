@@ -4,9 +4,9 @@ Dabei stoßen wir zuerst auf die schon angedeutete ungeheure
 Einfachheit des Systems. Zehn Ziffernsymbole sind eigentlich
 das ganze Material, womit wir es zu tun haben. Wenn wir
 weiters ein paar Verknüpfungssymbole wie die Zeichen „plus",
-„minus", „mal" und „dividiert durch" (+ , −, ×, ÷) <!-korrekte Zeichen nutzen --> und endlich das
+„minus", „mal" und „dividiert durch" (+ , −, ×, ÷) <!--korrekte Zeichen nutzen --> und endlich das
 Gleichheitszeichen ( = ) hinzunehmen, beherrschen wir als
-Lüchlige Algorithmiker bereits eine ganze Welt des
+tüchtige Algorithmiker bereits eine ganze Welt des
 Zahlenrechnens. Allerdings gehört als eine der wichtigsten
 Voraussetzungen noch etwas Weiteres zu unserer
 algorithmische Kunst, das uns selbstverständlich scheint,
