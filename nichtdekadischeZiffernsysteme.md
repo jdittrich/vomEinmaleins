@@ -398,3 +398,191 @@ $$92B⋅A7
   7126
    4C6C
   761CC$$
+
+In Worten: A mal B ist 86 bleibt 8, A mal 2 ist
+17 plus 8 ist 22, bleibt 2. A mal 9 ist 6C plus 2 ist
+71. Weiter: 7 mal B ist 5C, bleibt 5. 7 mal 2 ist 11
+plus 5 ist 16, bleibt 1. 7 mal 9 ist 4 B plus 1 ist 4C.
+Hierauf die Addition. Einerstelle: C. Zweite Stelle:
+6 + 6 ist ebenfalls C. Dritte Stelle: C + 2 = l l , bleibt
+eins. Vierte Stelle: 4 + 1 = 5 plus 1 ist 6. Fünfte
+SLelle: 7. Also: 76.1CC als Ergebnis.
+
+Da wir uns nicht allzu sehr abquälen wollen, riskieren
+wir jetzt die Banalität und machen diesmal
+die Gegenprobe im Zehnersystem. Und zwar durch
+Reihenauflösung.
+
+-----------------------  --- --------------------
+92 B (Dreizehnersystem)  =   B⋅13°+2⋅13¹+ 9⋅13²
+                         =   11⋅1 + 2⋅13 + 9⋅169
+                         =   1558 (Zehnersystem)   
+------------------------ --- --------------------
+
+------------------------ --- --------------------
+A7 (Dreizehnersystem)    =   7⋅13° + A⋅13¹
+                         =   7⋅1 + 10⋅13
+                         =   137 (Zehnersystem)
+------------------------ --- --------------------
+
+Nun multiplizieren wir im Zehnersystem:
+$$1558-137
+   4674
+   10906
+  213446$$
+
+Als Ergebnis der Multiplikation im Dreizehnersystem
+hatten wir 761CC erhalten. Diese Zahl muß 213.446
+im Zehnersystem gleich sein.
+
+Also: C⋅13° + C⋅13¹ + l⋅13² + 6⋅13³ + 7⋅13⁴ soll gleich
+sein 213.446 (Zehnersystem). Schreiben wir rein dekadisch
+mit gleichzeitiger Ausrechnung der Potenzen.
+
+12° + 12⋅13¹+1⋅169+6⋅2197 + 7 ⋅ 28561 = 12 + 156 +169 + 13.182 + 199.927 = 213.446
+
+Somit haben wir das erwartete Resultat erhalten und
+bewiesen, daß auch im Dreizehnersystem, also in einem
+System, dessen Grundzahl höher als zehn ist, die
+Rechenregeln des Stellenwertsystems anwendbar sind. Ich muß
+bemerken, daß der Mathematiker einen solchen „Beweis"
+durchaus nicht gelten läßt. Er nennt unser Vorgehen
+höchstens Bewahrheitung oder Verifikation. Wir
+wollen uns aber vorläufig mit unserem minderwertigen
+„Beweis"verfahren begnügen, da es in unserem Falle
+ungefährlich und eindeutig ist.
+
+Nun stehen wir plötzlich auf dem Gipfel des Zahlenberges.
+Die Mühe des Anstieges, das dornige Gestrüpp
+von Ziffern und Rechnungen hatte unseren Blick bisher
+auf den Boden geheftet. Jetzt aber, nach all den
+Beschwerden, nach allem Schweiß und aller Geduld,
+dürfen wir in hoher Luft herumblicken. Was sehen wir?
+Wir sehen und ahnen unendlich viele Täler, die irgend-
+wie dem Tal des Zehnersystems gleichen und doch
+wieder von ihm verschieden sind in Vielfalt und Größe
+ihres Beginnes. Alle leiten ins Unendliche, Unbegrenzte.
+Alle haben Platz und Plätzchen für sämtliche natürlichen Zahlen.
+Und dennoch wächst in jedem Tal jedes Zahlenpflänzchen
+gleichsam in anderer Farbe und Dicke…
+
+Wir wollen aber unseren Vergleich nicht zu weit treiben.
+Begnügen wir uns mit dem bildlichen Gedanken, auf einem
+Gipfel zu stehen, von dem aus wir alle Zahlensysteme des
+Stellenwerttypus überblicken.Jedes dieser Systeme ist,
+soviel erkannten wir, ein unfehlbarer selbsttätiger
+Algorithmus, eine Denk- und Rechenmaschine. Bei allen
+Systemen ist der Bau derselbe: Eine Grundzahl; soviel
+Ziffernzeichen einschließlich der Null, als die Grundzahl
+Einheiten enthält; Stellenwert, indem jeder Koeffizient, jede
+innerhalb der Zahl geschriebene Ziffer, mit der Potenz der
+Grundzahl multipliziert zu denken ist, die seiner Stelle
+zukommt. Und zwar kommt der Einerstelle die rätselhafte
+nullte, jeder folgenden Stelle eine je um eins höhere
+Potenz zu. Die ausgerechneten Potenzen nennt man
+Stufenzahlen. Und es ist nötig, wenn man praktisch rechnen
+will, daß die Stufenzahlen wenigstens in den ersten Stufen
+sprachlich mit eigenen Worten benannt sind. In jedem System
+gibt es einziffrige, zweiziffrige, dreiziffrige Zahlen usf.
+Die Ziffernanzahl einer Zahl ist stets um eins größer als
+die Potenz der Grundzahl, die dem höchsten Stellenwert
+zugeordnet ist. (Bei 1268,also einer vierziffrigen Zahl, ist
+die Potenz der höchsien Stelle, der Tausenderstelle, die *dritte*
+<!-- im Original d r i t t e -->  Potenz,da 10³ = 10⋅10⋅10 = 1000; bei
+2,586.933, also bei <!-- im Original s i e b e n -->  Ziffern, hat die
+Millionenstelle die Potenz sechs, da 10⁶= 10⋅10⋅10⋅10⋅10⋅10=
+1,000.000 usw.) Ferner gelten in jedem Ziffernsystem mit
+Stellenwertschreibung dieselben Rechenregeln für die
+Rechnungsarten der Addition, Subtraktion, Multiplikation,
+Division.
+
+Bevor wir zum letzten Ergebnis unserer Untersuchung  der
+Ziffernsysteme vordringen, soll noch erwähnt sein,  daß der
+Algorithmus, die wahre Kabbala, nicht nur Voraussetzung
+eines mühelosen schriftlichen Rechnens ist. Das indische
+Stellenwertsystem ist sogar die Voraussetzung für die
+Möglichkeit der allbekannten zauberkräftigen mechanischen
+Rechenmaschinen, die in ihrer verbreitetsten Form als
+Registrierkassen in Geschäften und als Taxameteruhren in
+Autodroschken zu sehen sind <!-- archaisch -->. Die eigentlichen
+Rechenmaschinen, wie sie in Banken, Buchhaltungen,
+technischen Büros usw. verwendet werden, basieren auf
+zahlentheoretischen Überlegungen. Und es ist durchaus kein
+Zufall, daß es gerade der große Leibniz, der Bahnbrecher und
+Durchdringer der wahren Kabbala, war, der im Jahre 1674 in
+Paris die erste Rechenmaschine konstruierte, die schon alle
+Grundbestandteile und Prinzipien der heutigen Wunderwerke
+(TIM, Mercedes-Euklid usw.) enthielt.
+
+Wir wollen aber außer dem Begriff des Selbsttätigen eines
+richtig und zweckvoll erfundenen Algorithmus, dessen Wert
+nun jeder von uns voll begreifen wird, als Ergebnis unserer
+Mühen noch andere Grundbegriffe der Mathematik gewinnen und
+festhalten, die besonders in den höheren Gebieten unserer
+Kunst von ungeheuerer Bedeutung sind: die Begriffe der
+Allgemeinheit, der Gestaltgleichheit und der Formbeharrung.
+Da wir aber keine Philosophie der Mathematik treiben wollen,
+werden wir auch diese sehr theoretischen Begriffe bildhaft
+aus unseren bisherigen Untersuchungen ableiten.
+
+Wir gingen vom Zehnersystem aus, hielten es zuerst für
+gottgegeben, sahen aber schließlich, daß es nur ein
+zufälliges System unter unzähligen möglichen Systemen war.
+Dadurch fanden wir gleichsam die *allgemeine* <!-- original: a l l g e m e i n e -->
+Form eines Ziffernsystems mit Stellenwertschreibung. Wir
+stellten für dieses System, das irgendeine beliebige Zahl
+als Grundzahl haben kann, *allgemeine* <!-- original: a l l g e m e i n e -->  
+Regeln auf, die nicht mehr an einen speziellen Fall gebunden sind,
+sondern für alle Systeme gelten, also *allgemein* <!-- original a l l g e m e i n-->
+sind. Die Systeme müssen sonach gestaltgleich sein.
+Gestaltgleichheit heißt in der gelehrten Sprache
+»Isomorphismus«». Und die Formbeharrung oder die »Invarianz«
+bedeutet, daß bei gewisser Gestaltgleichheit sich eine
+Reihe von Regeln nicht ändert, obwohl die konkrete
+Erscheinungsform verschieden sein kann. Das Zehnersystem,
+das Sechsersystcm. das Dreizehnersystem und alle
+unzähligen anderen Stellenwertsysteime sind gestaltgleich.
+Daher sind z. B. die Regeln der Multiplikation für alle
+Systeme dieselben. Die Stellenwertsysteme zeigen
+Formbeharrung gegenüber der Multiplikation oder sind gegen
+die Multiplikation invariant, gleichsam unempfindlich. Es
+ist der Multiplikation gleichgültig, in welchem System sie
+erfolgt. Sie geht stets denselben Weg und führt stets zum
+gleichen Ergebnis. So könnte man jede Rechenmaschine, ohne
+ihr Prinzip zu ändern, durch Auswechslung weniger Teile
+sofort auf ein Sechser- oder Dreizehner-system umstellen.
+Sic würde dann gehorsam das Ergebnis, im anderen System
+geschrieben, liefern.
+
+Wir wollen aber unsere Betrachtungen nicht zu weit
+treiben. Denn wir verletzen sonst die Genauigkeit, da
+unsere eigentlichen Kenntnisse der Mathematik,
+materiell betrachtet, die eines Elementarschülers  <!-- archaisch -->
+von neun Jahren noch kaum übersteigen.
+
+Außerdem sind uns plötzlich Zweifel gekommen.
+Wir haben uns der Dyadik, des Zweiersystems des
+großen Leibniz erinnert und dabei entdeckt, daß das
+ganze Einmaleins dieses Systems, das ja nur die 0 und
+die 1 als Ziffern kennt, aus einem einzigen Ansatz,
+nämlich 1⋅1 = 1 besteht. Für Schüler ist ein solches
+Einmaleins sicherlich verlockend. Wir aber sind sehr
+verwirrt. Denn wir haben behauptet, man könne in
+jedem beliebigen System nach denselben Regeln
+rechnen. Wie soll ich aber multiplizieren, wenn ich nur
+weiß, daß 1 mal 1 gleich 1 ist?
+
+Noch eine zweite Frage quält uns. Wir wollten mit
+unseren bisherigen Kenntnissen selbständig versuchen,
+zu berechnen, wieviel zweiziffrige, dreiziffrige,
+vierziffrige, zehnziffrige Zahlen es in einem System
+irgendeiner beliebigen Grundzahl gibt; und sind dabei auf
+allerlei Hindernisse gestoßen.
+
+Wir werden uns also notgedrungen noch weiter mit
+Ziffern und ganzen Zahlen beschäftigen müssen, bevor
+wir endgültig der „Zahlenthcorie" den Rücken kehren
+und uns der sogenannten Algebra, dem Rechnen mit
+allgemeinen Zahlen, zuwenden können; wo uns erst der
+wahre Formenzauber, die ganz große Kabbala der
+Mathematik erschauern lassen wird.
